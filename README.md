@@ -1,1 +1,1 @@
-# wolf_animations
+# Wolf Animations
